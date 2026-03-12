@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimisha Sen</h1>
 <h3 align="center"> AI Engineer | Data & ML Systems | Applied Analytics
 <p align="center">
-I build practical AI systems, data products, and analytics workflows with Python, SQL, and LLMs.
-</p>
+I build practical AI systems and data-driven products, with interests spanning machine learning, analytics, and intelligent digital experiences.</p>
 
 ---
 
