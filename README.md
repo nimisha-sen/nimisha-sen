@@ -8,10 +8,9 @@ I build practical AI systems and data-driven products, with interests spanning m
 
 ## About Me
 
-- MSc Data Science & AI @ UAL
-- Postgrad Diploma in Creative Computing
-- Bachelors in Law (Hons)
-- Currently working on AI-enhanced legal data systems
+- MSc in Data Science & AI @ UAL
+- Background in law, design, and creative computing
+- Currently working on AI-enhanced data systems
 - Based in London
 
 ---
