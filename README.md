@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimisha Sen</h1>
 <h3 align="center"> AI Engineer | Data & ML Systems | Applied Analytics
+<h4 align="center"> *****
 <p align="center">
 I build practical AI systems and data-driven products, with interests spanning machine learning, analytics, and intelligent digital experiences.</p>
 
@@ -7,10 +8,10 @@ I build practical AI systems and data-driven products, with interests spanning m
 
 ## About Me
 
-- MSc in Data Science & AI
-- Background across law, design, and data
+- MSc Data Science & AI @ UAL
+- Postgrad Diploma in Creative Computing
+- Bachelors in Law (Hons)
 - Currently working on AI-enhanced legal data systems
-- Interested in AI engineering, applied ML, analytics, and product-facing AI
 - Based in London
 
 ---
